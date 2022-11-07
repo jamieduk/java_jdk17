@@ -1,0 +1,13 @@
+Once you have Java JDK 17
+
+
+Launch Ghidra: 
+
+wget https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.2_build/ghidra_10.2_PUBLIC_20221101.zip
+
+./ghidraRun
+
+(or ghidraRun.bat for Windows)
+
+https://www.youube.com/watch?v=FceecDBW_N4
+
